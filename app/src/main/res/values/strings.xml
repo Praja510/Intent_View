@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Latihan Inten</string>
+    <string name="move_activity">Pindah Activity</string>
+    <string name="move_with_data">Pindah Activity Dengan Data</string>
+    <string name="dial_number">Dial a Number</string>
+    <string name="data_received">Data Diterima</string>
+    <string name="this_is_moveactivity">Ini MoveActivity</string>
+    <string name="data_diterima">Data Diterima</string>
+</resources>
